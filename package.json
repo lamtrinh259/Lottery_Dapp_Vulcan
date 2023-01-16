@@ -1,0 +1,21 @@
+{
+  "name": "Lottery_Dapp_Vulcan",
+  "version": "1.0.0",
+  "description": "SAFUUX-Vulcan hackathon decentralized lottery savings dapp",
+  "main": "index.js",
+  "repository": "https://github.com/lamtrinh259/Lottery_Dapp_Vulcan",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.12.6"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-etherscan": "^3.1.5",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@openzeppelin/contracts": "^4.8.1",
+    "dotenv": "^16.0.3",
+    "hardhat-contract-sizer": "^2.7.0",
+    "hardhat-deploy": "^0.11.22",
+    "hardhat-gas-reporter": "^1.0.9",
+    "solidity-coverage": "^0.8.2"
+  }
+}
